@@ -17,7 +17,7 @@ const Main = () => {
   // };
 
   return (
-    <div className="w-[full] h-[100vh] flex justify-center items-center bg-red-800">
+    <div className="w-[full] h-[100vh] flex justify-center items-center bg-yellow-800">
       <div className="w-[350px]  h-[80vh] flex flex-col border-2 bg-blue-200">
         <Screen input={input} result={result} />
         <Buttons
